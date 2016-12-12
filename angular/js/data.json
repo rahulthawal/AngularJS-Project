@@ -1,0 +1,75 @@
+[
+  {
+    "name":"William Allen",
+    "professor":"Florida Tech, Harris Institute for Assured Information.",
+    "backgroud":"Ph.D. University of Central Florida 2003",
+    "bio":"Dr. Allen is currently an Associate Professor of Computer Sciences at the Florida Institute of Technology.He served as an Assistant Professor in the Computer Sciences Department from 2003 to 2010, teaching a range of undergraduate and graduate courses, conducting both funded and unfunded research and advising Master's and PhD students.From 1995 to 2003, Dr. Allen was a Lecturer of Computer Science at the University of Central Florida, teaching a wide range of undergraduate courses for Computer Science and Information Technology majors.",
+    "research":"NoSQL, big data, database benchmarking, and performance tuning. Additional interests include theory of computation, and computational complexity.",
+    "phone":"321-674-7294",
+    "email":"wallen@fit.edu"
+  },
+  {
+    "name":"Rhoda Baggs",
+    "professor":"Florida Tech, Computer Information Systems.",
+    "backgroud":"Ph.D. Computer Science Florida Institute of Technology 1997.",
+    "bio":"Dr. Baggs is the Program Chair for the Computer Information Systems Master of Science program offered by Florida Tech. This program specializes in the study of information systems, and includes core areas of object-oriented programming, computer hardware, design and maintenance of data driven systems, Enterprise systems, and database management. The MS/CIS is available in Melbourne, at several sites, and 100% online via the Virtual Site.",
+    "research":"Reusable requirements databases, Image processing, Dynamic programming algorithms for Image registration, Software Engineering.",
+    "phone":"321-674-8807",
+    "email":"rbaggs@fit.edu"
+  },
+  {
+    "name":"Philip Bernhard",
+    "professor":"Florida Tech, Computer Sciences and Cybersecurity.",
+    "backgroud":"Ph.D. State University of New York at Albany.",
+    "bio":"Aug. 1998 to present: Associate Professor, Department of Computer Science, Florida Institute of Technology, Melbourne, FL. From 1995-1998, Dr. Bernhard worked as a software engineer for Harris Information Systems Division (ISD) in Melbourne, Fla. While there, he worked on a variety of research and development projects involving databases, performance tuning and natural language processing. From 1993-1995 he was a software engineer on the CORE program for NASA at Harris Space Systems Corporation in Rockledge, Fla. From 1992-1993 he was a senior instructor for P.P. Texel of Eatontown, JF. From 1998-1992 he was a faculty member in the Computer Science Department at Clemson University in South Carolina.",
+    "research":"Reusable requirements databases, Image processing, Dynamic programming algorithms for Image registration, Software Engineering.",
+    "phone":"321-674-7294",
+    "email":"pbernhar@fit.edu"
+  },
+  {
+    "name":"Walter Bond",
+    "professor":"Florida Tech, Computer Sciences and Cybersecurity.",
+    "backgroud":"Ph.D.  Mathematical Statistics University of Georgia 1976.",
+    "bio":"Over thirty years of experience in software engineering, computer science and statistical analysis, including an extensive background in large-scale software system development.",
+    "research":"Software Engineering, Statistical Analysis, System Development.",
+    "phone":"321-674-7703",
+    "email":"pbond@fit.edu"
+  },
+  {
+    "name":"Marco Carvalho",
+    "professor":"Florida Tech, Computer Sciences and Cybersecurity.",
+    "backgroud":"Ph.D. in Computer Science Tulane University.",
+    "bio":"Dr Marco Carvalho an Associated Professor at the Florida Institute of Technology, and a Research Scientist at the Institute for Human and Machine Cognition. At Florida Tech, Dr. Carvalho is the Executive Director of the Harris Institute for Assured Information, and the Director of the Intelligent Communication and Information Systems Laboratory (ICIS). Dr. Carvalho is the Principal Investigator of several research projects. His area primary areas of research are in computer security, computer networks, and information systems. ",
+    "research":"Geo-spatial Reasoner, Moving Target Defense, System Development, Hybrid Emulation Systems for Airborne Network.",
+    "phone":"321-674-8767",
+    "email":"mcarvalho@fit.edu"
+  },
+  {
+    "name":"Philip Chan",
+    "professor":"Florida Tech, Computer Sciences and Cybersecurity.",
+    "backgroud":"Ph.D., Computer Science Columbia University 1996.",
+    "bio":"Associate Professor, Computer Science, Florida Institute of Technology (2002-present); Assistant Professor (1997-2002); Visiting Assistant Professor (1995-97).",
+    "research":"Adaptive web personalization, Anomaly detection for computer security, Anomaly detection for device monitoring, Intrusion Detection, Machine Learning and Data Mining ",
+    "phone":"321-674-7280",
+    "email":"pkc@fit.edu"
+  },
+  {
+    "name":"Heather Crawford",
+    "professor":"Florida Tech, Harris Institute for Assured Information.",
+    "backgroud":"Ph.D. Computing Science, University of Glasgow 2013",
+    "bio":"Dr. Heather Crawford is an Assistant Professor in the Harris Institute for Assured Information within the School of Computing at Florida Institute of Technology. She received her Ph.D. in Computing Science from University of Glasgow in Scotland, where her research was focused on developing a framework for continuous, transparent authentication on mobile devices. Dr. Crawford has authored and co-authored publications that appear in journals such as Computers & Security.",
+    "research":"privacy, security and trust for the Internet of Things, behavioral modeling, alternative authentication, and usable security.",
+    "phone":"321-674-7559",
+    "email":"hcrawford@fit.edu"
+  },
+  
+  {
+    "name":"Keith Gallagher",
+    "professor":"Florida Tech, Computer Sciences and Cybersecurity.",
+    "backgroud":"Ph.D. University of Maryland Graduate School at Baltimore 1990.",
+    "bio":"Dr. Keith Gallagher is joined the faculty of Florida Institute of Technology as an Associate Professor of Software Engineering in January 2010.He invented decomposition slicing and has investigated its application in software maintenance and evolution, impact analysis, software testing, program comprehension, program visualization and generalized program analysis. He has published some 40 refereed publications in these areas. He is on the editorial board of the Journal of Software Maintenance and Evolution. He is currently on the program committee of the International Conference on Software Maintenance (ICSM), and has been on that committee on 18 occasions since 1989. He also serves on the program committees of the International Conference on Program Comprehension (ICPC), the Source Code  Analysis and Manipulation workshop (SCAM) and the Working Conference on Reverse Engineering (WCRE). ",
+    "research":"His research interests can be summarized simply: What can I do to help a programmer \"sitting in the trenches\"? ",
+    "phone":"321-674-8395",
+    "email":"kgallagher@fit.edu."
+  }
+]
